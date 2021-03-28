@@ -85,14 +85,14 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "img": "img/team/RicardoPerfil.jpg",
+            "name": "Ricardo Perez",
+            "job": "Growth Marketer"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "img": "img/team/SaelProfile.jpg",
+            "name": "Sael Bayona",
+            "job": "Product Owner"
         }, {
             "img": "img/team/03.jpg",
             "name": "Jane Doe",
@@ -114,23 +114,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "1.Donde Comienzas",
+            "title": "1. Donde Comienzas",
             "text": "Cual es tu punto de partida? Podremos ubicar mas personas que salen del mismo lugar."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "A donde te diriges?",
-            "text": "Cual es tr"
+            "title": "2. A donde te diriges?",
+            "text": "Cual es tu destino final? Seguro algun vecino va al mismo lugar!"
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "3. Madrugas?",
+            "text": "Cuentanos a que hora sales!"
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Voile",
+            "text": "Listo! Buscaremos la mejor ruta para ti!"
         }
     ]
 }
