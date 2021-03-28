@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "Que es Tuar?",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "paragraph": "Tuar es una solucion de movilidad que busca alcanzar el mejor balance entre comodidad, seguridad y costo. Funciona a traves de la exploracion de tu entorno, conectando gente con necesidades de movilidad."
 
     },
     "About": {
@@ -85,12 +85,12 @@
         }
     ],
     "Team": [{
-            "img": "img/team/RicardoPerfil.jpg",
+            "img": "img/team/RicardoPerfil.jpeg",
             "name": "Ricardo Perez",
             "job": "Growth Marketer"
         },
         {
-            "img": "img/team/SaelProfile.jpg",
+            "img": "img/team/SaelProfile.jpeg",
             "name": "Sael Bayona",
             "job": "Product Owner"
         }, {
