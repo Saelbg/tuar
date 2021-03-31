@@ -53,7 +53,7 @@ export const Contact = (props) => {
                         id='name'
                         name='name'
                         className='form-control'
-                        placeholder='Name'
+                        placeholder='Tu Nombre'
                         required
                         onChange={handleChange}
                       />
@@ -75,21 +75,59 @@ export const Contact = (props) => {
                     </div>
                   </div>
                 </div>
+                <div className='row'>
+                  <div className='col-md-6'>
+                    <div className='form-group'>
+                      <input
+                        type='text'
+                        id='origen'
+                        name='origen'
+                        className='form-control'
+                        placeholder='Origen'
+                        required
+                        onChange={handleChange}
+                      />
+                      <p className='help-block text-danger'></p>
+                    </div>
+                  </div>
+                  <div className='col-md-6'>
+                    <div className='form-group'>
+                      <input
+                        type='text'
+                        id='destino'
+                        name='destino'
+                        className='form-control'
+                        placeholder='Destino'
+                        required
+                        onChange={handleChange}
+                      />
+                      <p className='help-block text-danger'></p>
+                    </div>
+                  </div>
+                </div>
+                <div className="row">
+                <div className='col-md-6'>
+                    <div className='form-group'>
+                      <input
+                        type='time'
+                        id='time'
+                        name='time'
+                        className='form-control'
+                        placeholder='Hora'
+                        required
+                        onChange={handleChange}
+                      />
+                      <p className='help-block text-danger'></p>
+                    </div>
+                  </div>
+                  </div>
                 <div className='form-group'>
-                  <textarea
-                    name='message'
-                    id='message'
-                    className='form-control'
-                    rows='4'
-                    placeholder='Message'
-                    required
-                    onChange={handleChange}
-                  ></textarea>
+                  
                   <p className='help-block text-danger'></p>
                 </div>
                 <div id='success'></div>
                 <button type='submit' className='btn btn-custom btn-lg'>
-                  Send Message
+                  Enviar
                 </button>
               </form>
             </div>

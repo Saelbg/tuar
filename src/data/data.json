@@ -93,15 +93,6 @@
             "img": "img/team/SaelProfile.jpeg",
             "name": "Sael Bayona",
             "job": "Product Owner"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
         }
     ],
     "Contact": {
@@ -113,17 +104,17 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
+            "icon": "fa fa-map-marker",
             "title": "Donde Comienzas?",
-            "text": "Cual es tu punto de partida? Podremos ubicar mas personas que salen del mismo lugar."
+            "text": "Podremos ubicar mas personas que salen del mismo lugar."
         },
         {
-            "icon": "fa fa-bullhorn",
+            "icon": "fa fa-location-arrow",
             "title": "A donde te diriges?",
             "text": "Cual es tu destino final? Seguro algun vecino va al mismo lugar!"
         },
         {
-            "icon": "fa fa-group",
+            "icon": "fa fa-clock-o",
             "title": "Madrugas?",
             "text": "Cuentanos a que hora sales!"
         },
