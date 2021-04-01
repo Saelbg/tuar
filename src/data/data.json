@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "Que es Tuar?",
-        "paragraph": "Tuar es una solucion de movilidad que busca alcanzar el mejor balance entre comodidad, seguridad y costo. Funciona a traves de la exploracion de tu entorno, conectando gente con necesidades de movilidad."
+        "title": "Que es DojoBox?",
+        "paragraph": "DojoBox es una solucion de movilidad que busca alcanzar el mejor balance entre comodidad, seguridad y costo. Funciona a traves de la exploracion de tu entorno, conectando gente con necesidades de movilidad."
 
     },
     "About": {
@@ -22,66 +22,49 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Seguridad",
+            "text": "No solo seras transportado por un conductor profesional, sino que tambien podras conocer algo de tus companeros de viaje"
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Comodidad",
+            "text": "Seamos realistas! a nadie le gusta la experiencia del transporte publico en Bogota"
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Costo por valor",
+            "text": "Te ofrecemos un punto unico entre costo y beneficio"
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Bogota es una ciudad dificil, y parte de eso se debe al caos vehicular, DojoBox es brinda una alternativa que reduce el estres de transportarse!\"",
+            "name": "Santiago Vasquez"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Lo que mas disfruto de usar DojoBox es que puedo relajarme camino a mi trabajo y de regreso. Escuchar musica, dormir, lo que sea, se que estoy en buenas manos.\"",
+            "name": "Nicolas Moreno"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Era un usuario recurrente de otros servicios de movilidad, pero realmente mi bolsillo se estaba viendo afectado, especialmente en horas pico y con tarifas dinamicas. Con DojoBox reduje considerablemente mi gasto en transporte\"",
+            "name": "Andres Paez"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Desde que uso DojoBox logre establecer una rutina diaria que me hace mas productiva, lo recomiendo totalmente!\"",
+            "name": "Camila Rodriguez"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Facil y rapido, es todo lo que tengo que decir, me encanta!\"",
+            "name": "Manuel Ortiz"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\" Mi seguridad no tiene precio, y definitivamente con DojoBox viajo hacia mi trabajo sin temor alguno\"",
+            "name": "Cristina Mendieta"
         }
     ],
     "Team": [{
@@ -105,22 +88,22 @@
     },
     "Features": [{
             "icon": "fa fa-map-marker",
-            "title": "Donde Comienzas?",
+            "title": "1. Dinos Donde Comienzas?",
             "text": "Podremos ubicar mas personas que salen del mismo lugar."
         },
         {
             "icon": "fa fa-location-arrow",
-            "title": "A donde te diriges?",
-            "text": "Cual es tu destino final? Seguro algun vecino va al mismo lugar!"
+            "title": "2. Y donde te diriges?",
+            "text": "Cual es tu destino final? Seguro alguien mas va en ese recorrido!"
         },
         {
             "icon": "fa fa-clock-o",
-            "title": "Madrugas?",
+            "title": "3. Madrugas?",
             "text": "Cuentanos a que hora sales!"
         },
         {
             "icon": "fa fa-magic",
-            "title": "Voila!",
+            "title": "4. Voila!",
             "text": "Listo! Buscaremos la mejor ruta para ti!"
         }
     ]
